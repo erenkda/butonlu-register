@@ -1,0 +1,18 @@
+{
+  "name": "moment-butonlu-register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "moment.js",
+  "scripts": {
+    "test": "node moment.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "prefix": ".",
+    "sahip": "sahip id",
+    "token": "token",
+
+    "RegisterStaff": "register yetkili rolü",
+    "Tag": "tag",
+    "Untag": " tagı çıkartınca isim önündeki sembol",
+    "Man1": "erkek 1 rolü",
+    "Man2": "erkek 2 rolü",
+    "Woman1": "kadın 1 rolü",
+    "Woman2": "kadın 2 rolü",
+    "Unregister": "kayıtsız rolü"
+  }
