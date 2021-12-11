@@ -3,12 +3,15 @@
     "sahip": "sahip id",
     "token": "token",
 
-    "RegisterStaff": "register yetkili rolü",
+    "RegisterStaff": "Register Yetkili Rolü",
     "Tag": "tag",
     "Untag": " tagı çıkartınca isim önündeki sembol",
-    "Man1": "erkek 1 rolü",
-    "Man2": "erkek 2 rolü",
-    "Woman1": "kadın 1 rolü",
-    "Woman2": "kadın 2 rolü",
-    "Unregister": "kayıtsız rolü"
+    "Man1": "1. erkek rolü",
+    "Man2": "2. erkek rolü",
+    "Woman1": "1. kadın rolü",
+    "Woman2": "2. kadın rolü",
+    "Unregister": "kayıtsız rolü",
+    "RegisterChat": "Register chat kanalı",
+    "FamilyRole": "Tag alınca verilecek rol id",
+    "GuildID": "sunucu id"
   }
