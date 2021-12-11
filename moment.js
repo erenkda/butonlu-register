@@ -94,7 +94,7 @@ client.elevation = message => {
     return permlvl;
 };
 
-client.login(process.env.token);
+client.login(ayarlar.token);
  
 client.on("guildMemberAdd", async(member) => {
       let channel = member.guild.channels.cache.get(ayarlar.RegisterChat);
